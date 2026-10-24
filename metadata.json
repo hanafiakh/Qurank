@@ -1,0 +1,6 @@
+{
+  "name": "الموسوعة الإسلامية",
+  "description": "تطبيق الموسوعة الإسلامية: المصحف الشريف، التفاسير، التسميع، الأحاديث، والأذكار",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
